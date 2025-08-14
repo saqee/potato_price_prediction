@@ -1,7 +1,9 @@
  Potato Price Prediction using Linear Regression
 
 
-A simple machine learning project that predicts potato prices based on weight (in kilograms) using Scikit-learn’s Linear Regression. The dataset contains sample values of potato weight vs. market price. The project includes:
+Potato Price Prediction — Machine Learning with Linear Regression Developed a predictive model to estimate potato prices based on weight data using Linear Regression in Python. Implemented data preprocessing, train-test split, model fitting, and accuracy evaluation with R² score. Analyzed results and identified the impact of non-linear patterns on prediction performance.
+
+Key Skills: Python, Pandas, Scikit-learn, Data Visualization, Model Evaluation The dataset contains sample values of potato weight vs. market price. The project includes:
 
 Data preprocessing and handling missing values
 
